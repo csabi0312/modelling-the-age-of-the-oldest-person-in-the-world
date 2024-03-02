@@ -1,4 +1,4 @@
-# modelling-the-age-of-the-oldest-person-in-the-world
+# Modelling the age of the oldest person in the world
 Supplementary Python code for optimizing parameters in a stochastic model describing the age of the world's oldest person.
 
 This repository contains supplementary Python code corresponding to the optimization process described in the article "Modelling the distribution of longevity leaders" by Csaba Kiss, László Németh, and Bálint Vető. The article proposes a stochastic model to describe the evolution of the age of the world's oldest person, utilizing a dataset collected by the Gerontology Research Group since 1955.
