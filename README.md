@@ -7,6 +7,10 @@ The Python code provided here implements the Nelder-Mead optimization method to 
 
 The optimization process aims to find the optimal parameter values that provide a good fit to the data while ensuring a realistic lifespan distribution. The code is organized to facilitate reproducibility of the results presented in the article.
 
-##Content
+## Content
+
+<ul>
+  <li>NM_oldest_person{i}.ipynb notebooks for the three different entry age (i=0,30,60)</li>
+</ul>
 
 
